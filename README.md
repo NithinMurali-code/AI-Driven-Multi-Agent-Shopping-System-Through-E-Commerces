@@ -126,5 +126,5 @@ Payment gateway integration · product recommendations · order tracking and not
 
 ## 👤 Author
 
-**Nithin Murali Vemula** - B.Tech CSE, Holy Mary Institute of Technology and Science
+** Vemula Nithin Murali ** - B.Tech CSE, Holy Mary Institute of Technology and Science
 GitHub: [NithinMurali-code](https://github.com/NithinMurali-code)
