@@ -105,7 +105,16 @@ npm run dev
 
 ## 📸 Screenshots
 
-<!-- Add screenshots to a docs/ folder and link them here, e.g. ![Home](docs/home.png) -->
+<img width="625" height="372" alt="image" src="https://github.com/user-attachments/assets/782848f1-4ec3-499a-9782-cfdc8919b46b" />
+
+<img width="692" height="423" alt="image" src="https://github.com/user-attachments/assets/70eccabb-000e-4ac5-9a3e-12cce65f72d4" />
+
+<img width="730" height="412" alt="image" src="https://github.com/user-attachments/assets/e5de33c1-33ce-4a00-a1d5-c23ad54d6c22" />
+
+<img width="566" height="405" alt="image" src="https://github.com/user-attachments/assets/7e789758-dd74-4ce0-85a8-a0c5abf74197" />
+
+<img width="545" height="414" alt="image" src="https://github.com/user-attachments/assets/d0f84962-03c2-4dac-8f4e-07898d77d19e" />
+
 
 ---
 
